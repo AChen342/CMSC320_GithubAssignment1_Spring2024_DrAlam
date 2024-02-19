@@ -1,0 +1,3 @@
+Q: Why are you interested in taking CMSC320?
+
+A: I am interested in taking this course because I am interested in how data is organized and obtained. I want to learn about what data consists of and how they are used. Also, looking at the course topics,  I see that there are topics such as machine learning and neural networks, both of which I find fascinating. I look forwards to learning more about those topics. Another reason why I want to take this course is because the career I want to pursue in requires me to understand what data science is.
